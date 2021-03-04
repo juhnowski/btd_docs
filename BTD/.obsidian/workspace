@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "71ad14f5525be940",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e3f456f5c3b94f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Радиационные ожоги.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4a536324825bd2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c3a57aeb6b863c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4cec64855beb63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "17c2e2477ca484a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184
+  },
+  "right": {
+    "id": "21bfe816f5d0a12f",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a1d301ae45eba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c545e9c4d2b57f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Радиационные ожоги.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Радиационные ожоги.md",
+    "Untitled.md",
+    "Химические ожоги.md"
+  ]
+}
